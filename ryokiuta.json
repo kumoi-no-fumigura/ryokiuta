@@ -1,0 +1,4859 @@
+{
+ "work": "猟奇歌",
+ "work_id": "ryokiuta",
+ "repo": "kumoi-no-fumigura/ryokiuta",
+ "yomi": "りょうきか",
+ "category": "近代歌集",
+ "kind": "kashu",
+ "description": {
+  "kind": "近代歌集",
+  "era": "昭和時代",
+  "author": "夢野久作",
+  "desc": "夢野久作の歌集。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "夢野久作全集3",
+   "editor": "入力: 柴田卓治、校正: 久保あきら",
+   "series": "青空文庫",
+   "publisher": "ちくま文庫、筑摩書房",
+   "year": 1992,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/000096/card933.html"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "ryokiuta-000001",
+   "pid": "aozora",
+   "pages": [],
+   "no": 1,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "殺すくらゐ　何でもないと思ひつゝ人ごみの中を濶歩して行く",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000002",
+   "pid": "aozora",
+   "pages": [],
+   "no": 2,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある名をば　叮嚀に書きていねいに　抹殺をして焼きすてる心",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    22
+   ],
+   "ruby": [
+    {
+     "a": "叮嚀",
+     "r": "ていねい"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000003",
+   "pid": "aozora",
+   "pages": [],
+   "no": 3,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある女の写真の眼玉にペン先の赤いインキを注射して見る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000004",
+   "pid": "aozora",
+   "pages": [],
+   "no": 4,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この夫人をくびり殺して捕はれてみたしと思ふ応接間かな",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000005",
+   "pid": "aozora",
+   "pages": [],
+   "no": 5,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが胸に邪悪の森あり時折りに啄木鳥の来てたゝきやまずも",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000006",
+   "pid": "aozora",
+   "pages": [],
+   "no": 6,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "此の夕べ可愛き小鳥やは／＼と締め殺し度く腕のうづくも",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000007",
+   "pid": "aozora",
+   "pages": [],
+   "no": 7,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よく切れる剃刀を見て鏡をみて狂人のごとほゝゑみてみる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000008",
+   "pid": "aozora",
+   "pages": [],
+   "no": 8,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "高く／＼煙突にのぼり行く人を落ちればいゝがと街路から祈る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000009",
+   "pid": "aozora",
+   "pages": [],
+   "no": 9,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "殺すぞ！と云へばどうぞとほゝゑみぬ其時フツと殺す気になりぬ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000010",
+   "pid": "aozora",
+   "pages": [],
+   "no": 10,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人の来て世間話をする事が何か腹立たしく殺し度くなりぬ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    12
+   ]
+  },
+  {
+   "id": "ryokiuta-000011",
+   "pid": "aozora",
+   "pages": [],
+   "no": 11,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今のわが恐ろしき心知るごとくストーブの焔くづれ落つるも",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000012",
+   "pid": "aozora",
+   "pages": [],
+   "no": 12,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ピストルのバネの手ざはりやるせなや街のあかりに霧のふるとき",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000013",
+   "pid": "aozora",
+   "pages": [],
+   "no": 13,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぬす人の心を抱きて大なる煉瓦の家に宿直をする",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000014",
+   "pid": "aozora",
+   "pages": [],
+   "no": 14,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かゝる時人を殺して酒飲みて女からかふ偉人をうらやむ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000015",
+   "pid": "aozora",
+   "pages": [],
+   "no": 15,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人体のいづくに針を刺したらば即死せむかと医師に問ひてみる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000016",
+   "pid": "aozora",
+   "pages": [],
+   "no": 16,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春の夜の電柱に身を寄せて思ふ人を殺した人のまごゝろ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000017",
+   "pid": "aozora",
+   "pages": [],
+   "no": 17,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "殺しておいて瞼をそつと閉ぢて遣るそんな心恋しこがらしの音",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000018",
+   "pid": "aozora",
+   "pages": [],
+   "no": 18,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ピストルの煙のにほひばかりでは何か物足らず手品を見てゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000019",
+   "pid": "aozora",
+   "pages": [],
+   "no": 19,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ペンナイフ何時までも銹びず失くならずその死にがほの思ひ出と共に",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "銹",
+     "r": "さ"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000020",
+   "pid": "aozora",
+   "pages": [],
+   "no": 20,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一番に線香を立てに来た奴が俺を…………………と云うて息を引き取る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000021",
+   "pid": "aozora",
+   "pages": [],
+   "no": 21,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "若い医者が俺の生命を預つたと云うてニヤリと笑ひ腐つた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000022",
+   "pid": "aozora",
+   "pages": [],
+   "no": 22,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "だしぬけに血みどろの俺にぶつかつたあの横路地のくら暗の中で",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000023",
+   "pid": "aozora",
+   "pages": [],
+   "no": 23,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "頭の中でピチンと何か割れた音イヒヽヽヽヽ……と……俺が笑ふ声",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000024",
+   "pid": "aozora",
+   "pages": [],
+   "no": 24,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白い乳を出させようとてタンポヽを引き切る気持ち彼女の腕を見る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000025",
+   "pid": "aozora",
+   "pages": [],
+   "no": 25,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "棺の中で死人がそつと欠伸したその時和尚が咳払ひした",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ],
+   "ruby": [
+    {
+     "a": "欠伸",
+     "r": "あくび"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000026",
+   "pid": "aozora",
+   "pages": [],
+   "no": 26,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "抱きしめるその瞬間にいつも思ふあの泥沼の底の白骨",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000027",
+   "pid": "aozora",
+   "pages": [],
+   "no": 27,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニセ物のパスで電車に乗つてみる超人らしいステキな気持ち",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000028",
+   "pid": "aozora",
+   "pages": [],
+   "no": 28,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青空の隅からジツト眼をあけて俺の所業を睨んでゐる奴",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000029",
+   "pid": "aozora",
+   "pages": [],
+   "no": 29,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自転車の死骸が空地に積んである乗つてゐた奴の死骸も共に",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000030",
+   "pid": "aozora",
+   "pages": [],
+   "no": 30,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇の中から血まみれの猿がヨロ／＼とよろめきかゝる俺の良心",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    24
+   ]
+  },
+  {
+   "id": "ryokiuta-000031",
+   "pid": "aozora",
+   "pages": [],
+   "no": 31,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "監獄にはいらぬ前も出た後も同じ青空に同じ日が照つてゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000032",
+   "pid": "aozora",
+   "pages": [],
+   "no": 32,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白い蝶が線路を遠く横切つて汽車がゴーと過ぎて血まみれの恋が残る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000033",
+   "pid": "aozora",
+   "pages": [],
+   "no": 33,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "見てはならぬものを見てゐる吾が姿をニヤリと笑つてふり向いて見る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    24
+   ]
+  },
+  {
+   "id": "ryokiuta-000034",
+   "pid": "aozora",
+   "pages": [],
+   "no": 34,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真夜中に心臓が一寸休止するその時にこはい夢を見るのだ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000035",
+   "pid": "aozora",
+   "pages": [],
+   "no": 35,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "枕元の花に薬をそゝぎかけてほゝゑむでねむる肺病の娘",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000036",
+   "pid": "aozora",
+   "pages": [],
+   "no": 36,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "倉の壁の木の葉が幽霊の形になつて生血がしたゝる心臓が切り出されたまゝ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    16,
+    26
+   ]
+  },
+  {
+   "id": "ryokiuta-000037",
+   "pid": "aozora",
+   "pages": [],
+   "no": 37,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けふも沖があんなに青く透いてゐる誰か溺れて死んだだんべ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000038",
+   "pid": "aozora",
+   "pages": [],
+   "no": 38,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水の底で胎児は生きて動いてゐる母体は魚に喰はれてゐるのに",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000039",
+   "pid": "aozora",
+   "pages": [],
+   "no": 39,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日が暮れかゝるとわが首を斬る刃に見えて生血がしたゝる監房の窓",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000040",
+   "pid": "aozora",
+   "pages": [],
+   "no": 40,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あの娘を空屋で殺して置いたのを誰も知るまい藍色の空",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000041",
+   "pid": "aozora",
+   "pages": [],
+   "no": 41,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "地平線になめくぢのやうな雲が出て見まいとしても何だか気になる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000042",
+   "pid": "aozora",
+   "pages": [],
+   "no": 42,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "血だらけの顔が沼から這ひ上る俺の先祖に斬られた顔が",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000043",
+   "pid": "aozora",
+   "pages": [],
+   "no": 43,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "唖の女が口から赤ん坊生んだゲナその子の父の袖をとらへて",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000044",
+   "pid": "aozora",
+   "pages": [],
+   "no": 44,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ドラツグの蝋人形の全身を想像してみて冷汗ながす",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000045",
+   "pid": "aozora",
+   "pages": [],
+   "no": 45,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自分が轢いた無数の人をウツトリと行く手にゑがく停電の運転手　動いてゐるさても得意気にたつた一人で",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    23,
+    35
+   ]
+  },
+  {
+   "id": "ryokiuta-000046",
+   "pid": "aozora",
+   "pages": [],
+   "no": 46,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "暗の中で俺と俺とが真黒く睨み合つた儘動くことが出来ぬ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000047",
+   "pid": "aozora",
+   "pages": [],
+   "no": 47,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "すれちがつた今の女が眼の前で血まみれになる白昼の幻想",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000048",
+   "pid": "aozora",
+   "pages": [],
+   "no": 48,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自惚れの錯覚すなはち恋だから子供は要らないザマア見やがれ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "自惚",
+     "r": "うぬぼ"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000049",
+   "pid": "aozora",
+   "pages": [],
+   "no": 49,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ピストルが俺の眉間を睨みつけてズドンと云つたアハハのハツハ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000050",
+   "pid": "aozora",
+   "pages": [],
+   "no": 50,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "毎日毎日向家の屋根のペンペン草を見てゐた男が狂人であつた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000051",
+   "pid": "aozora",
+   "pages": [],
+   "no": 51,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夏木立ヒツソリとしてぬす人の心の色に月の傾むく",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000052",
+   "pid": "aozora",
+   "pages": [],
+   "no": 52,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "カルモチンを紙屑籠に投げ入れて又取り出してジツと見つめる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000053",
+   "pid": "aozora",
+   "pages": [],
+   "no": 53,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "色の白い美しい子を何となくイヂメて見たさに仲よしになる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000054",
+   "pid": "aozora",
+   "pages": [],
+   "no": 54,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "森中の枯れ木はひとり芽を吹かず一心こめた毒茸を生やす",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000055",
+   "pid": "aozora",
+   "pages": [],
+   "no": 55,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "狼が人間の骨をふり返り／＼去り冬の日しづむ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000056",
+   "pid": "aozora",
+   "pages": [],
+   "no": 56,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "妖怪に似た生あたゝかい我が腹を撫でまはしてみる春の夜のつれ／″＼",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000057",
+   "pid": "aozora",
+   "pages": [],
+   "no": 57,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自殺やめて壁をみつめてゐるうちにフツと出て来た生あくび一つ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000058",
+   "pid": "aozora",
+   "pages": [],
+   "no": 58,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "交番の巡査が一つ咳をした霜の夜更けに俺が通つたら",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    12
+   ]
+  },
+  {
+   "id": "ryokiuta-000059",
+   "pid": "aozora",
+   "pages": [],
+   "no": 59,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "伯父さんへ此の剃刀を磨いでよと継子が使ひに来る雪の夕",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000060",
+   "pid": "aozora",
+   "pages": [],
+   "no": 60,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "死に度い心と死なれぬ心と互ひちがひに落ち葉踏みゆく／＼",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000061",
+   "pid": "aozora",
+   "pages": [],
+   "no": 61,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "埋められた死骸はつひに見付からず砂山をかし青空をかし",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000062",
+   "pid": "aozora",
+   "pages": [],
+   "no": 62,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "知らぬ存ぜぬ一点張りで行くうちに可笑しくつて空笑ひが出た",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000063",
+   "pid": "aozora",
+   "pages": [],
+   "no": 63,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海にもぐつて赤と緑の岩かげに吾が心臓の音をきいてゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000064",
+   "pid": "aozora",
+   "pages": [],
+   "no": 64,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "此の顔はよも犯人に見えまいと鏡のぞいてたしかめてみる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000065",
+   "pid": "aozora",
+   "pages": [],
+   "no": 65,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "毒茸がひとり茶色の粉を吹く何事もよく暮るゝ秋の日",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000066",
+   "pid": "aozora",
+   "pages": [],
+   "no": 66,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "彼女の胸に此の短剣が刺さる時ふさはしい色に春の陽しづめ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000067",
+   "pid": "aozora",
+   "pages": [],
+   "no": 67,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "美しく毛虫がもだえて這ひまはる硝子の瓶の夏の夕ぐれ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    20
+   ],
+   "ruby": [
+    {
+     "a": "硝子",
+     "r": "ガラス"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000068",
+   "pid": "aozora",
+   "pages": [],
+   "no": 68,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何者か殺し度い気持ちたゞひとりアハ／＼／＼と高笑ひする",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000069",
+   "pid": "aozora",
+   "pages": [],
+   "no": 69,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "屠殺所に暗く音なく血が垂れる真昼のやうな満月の下",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000070",
+   "pid": "aozora",
+   "pages": [],
+   "no": 70,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風の音が高まれば又思ひ出す溝に棄てゝ来た短刀と髪毛",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000071",
+   "pid": "aozora",
+   "pages": [],
+   "no": 71,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "殺しても／＼まだ飽き足らぬ憎い彼女の横頬のほくろ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000072",
+   "pid": "aozora",
+   "pages": [],
+   "no": 72,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日が照れば子供等は歌を唄ひ出す俺は腕を組んで反逆を思ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000073",
+   "pid": "aozora",
+   "pages": [],
+   "no": 73,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わるいもの見たと思うて立ち帰る　彼女の室の挘られた蝶",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    21
+   ],
+   "ruby": [
+    {
+     "a": "挘",
+     "r": "むし"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000074",
+   "pid": "aozora",
+   "pages": [],
+   "no": 74,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが心狂ひ得ぬこそ悲しけれ狂へと責むる鞭をながめて",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000075",
+   "pid": "aozora",
+   "pages": [],
+   "no": 75,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつゝなく人を仏になし給へみ佩刀近く呑まゐらする",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "佩刀",
+     "r": "はかせ"
+    },
+    {
+     "a": "呑",
+     "r": "のみ"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000076",
+   "pid": "aozora",
+   "pages": [],
+   "no": 76,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "君の眼はあまりに可愛ゆしそんな眼の小鳥を思はず締めしことあり",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000077",
+   "pid": "aozora",
+   "pages": [],
+   "no": 77,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "彼女を先づ心で殺してくれようと見つめておいてソツト眼を閉ぢる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000078",
+   "pid": "aozora",
+   "pages": [],
+   "no": 78,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蛇の群れを生ませたならば………なぞ思ふ取りすましてゐる少女を見つゝ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000079",
+   "pid": "aozora",
+   "pages": [],
+   "no": 79,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "頭の無い猿の形の良心が女と俺の間に寝てゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000080",
+   "pid": "aozora",
+   "pages": [],
+   "no": 80,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "フト立ち止まる人を殺すにふさはしい煉瓦の塀の横のまひる日",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000081",
+   "pid": "aozora",
+   "pages": [],
+   "no": 81,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "欲しくもないトマトを少し噛みやぶり赤いしづくを滴らしてみる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000082",
+   "pid": "aozora",
+   "pages": [],
+   "no": 82,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "幽霊のやうにまじめに永久に人を咀ふ事が出来たらばと思ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000083",
+   "pid": "aozora",
+   "pages": [],
+   "no": 83,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "観客をあざける心舞ひながら仮面の中で舌を出してみる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000084",
+   "pid": "aozora",
+   "pages": [],
+   "no": 84,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何故に草の芽生えは光りを慕ひ心の芽生えは闇を恋ふのか",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000085",
+   "pid": "aozora",
+   "pages": [],
+   "no": 85,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "殺したくも殺されぬ此の思ひ出よ闇から闇に行く猫の声",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000086",
+   "pid": "aozora",
+   "pages": [],
+   "no": 86,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "放火したい者もあらうと思つたがそれは俺だつた大風の音",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000087",
+   "pid": "aozora",
+   "pages": [],
+   "no": 87,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼の前に断崖が立つてゐる悪念が重なり合つて笑つて立つてゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000088",
+   "pid": "aozora",
+   "pages": [],
+   "no": 88,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "獣のやうに女に飢ゑつゝ神のやうに火にあたりつゝあくびする俺",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000089",
+   "pid": "aozora",
+   "pages": [],
+   "no": 89,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "清浄の女が此世にあると云ふか……影の無い花が此世にあると云ふのか",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    16,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000090",
+   "pid": "aozora",
+   "pages": [],
+   "no": 90,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぐる／＼／＼と天地はめぐるだから俺も眼がくるめいて邪道に陥ちるんだ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    25
+   ]
+  },
+  {
+   "id": "ryokiuta-000091",
+   "pid": "aozora",
+   "pages": [],
+   "no": 91,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ばくち打つ妻も子もない身一つをザマア見やがれと嘲つて打つ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000092",
+   "pid": "aozora",
+   "pages": [],
+   "no": 92,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自殺しようかどうしようかと思ひつゝタツタ一人で玉を撞いてゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000093",
+   "pid": "aozora",
+   "pages": [],
+   "no": 93,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "にんげんが皆良心を無くしつゝ夜のあけるまでダンスをしてゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    14,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000094",
+   "pid": "aozora",
+   "pages": [],
+   "no": 94,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "独り言を思はず云つてハツとして気味のわるさに又一つ云ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000095",
+   "pid": "aozora",
+   "pages": [],
+   "no": 95,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "誰か一人殺してみたいと思ふ時君一人かい…………………と友達が来る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000096",
+   "pid": "aozora",
+   "pages": [],
+   "no": 96,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "号外の真犯人は俺だぞ………と人ごみの中で怒鳴つてみたい",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000097",
+   "pid": "aozora",
+   "pages": [],
+   "no": 97,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "飛びだした猫の眼玉を押しこめどドウしても這入らず喰ふのをやめる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    15,
+    24
+   ]
+  },
+  {
+   "id": "ryokiuta-000098",
+   "pid": "aozora",
+   "pages": [],
+   "no": 98,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "メスの刃がお伽ばなしを読むやうにハラワタの色をうつして行くも",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000099",
+   "pid": "aozora",
+   "pages": [],
+   "no": 99,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五十銭貰つて一つお辞儀する盗めばお辞儀せずともいゝのに",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    13,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000100",
+   "pid": "aozora",
+   "pages": [],
+   "no": 100,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人間の屍体を見ると何がなしに女とフザケて笑つてみたい",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000101",
+   "pid": "aozora",
+   "pages": [],
+   "no": 101,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇の中に闇があり又闇があるその核心から血潮したゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    13,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000102",
+   "pid": "aozora",
+   "pages": [],
+   "no": 102,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "骸骨が曠野をひとり辿り行く行く手の雲に血潮したゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    13,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000103",
+   "pid": "aozora",
+   "pages": [],
+   "no": 103,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "教会の彼の尖塔の真上なる青い空から血しほしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    12,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000104",
+   "pid": "aozora",
+   "pages": [],
+   "no": 104,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "洋皿のカナリアの絵が真二つに割れたとこから血しほしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    14,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000105",
+   "pid": "aozora",
+   "pages": [],
+   "no": 105,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "すれ違つた白い女がふり返つて笑ふ口から血しほしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000106",
+   "pid": "aozora",
+   "pages": [],
+   "no": 106,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真夜中の三時の文字を長針が通り過ぎつゝ血しほしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    10,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000107",
+   "pid": "aozora",
+   "pages": [],
+   "no": 107,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水薬を花瓶に棄てゝアザミ笑ふ肺病の口から血しほしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000108",
+   "pid": "aozora",
+   "pages": [],
+   "no": 108,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日の影が死人のやうに縋り付く倉の壁から血しほしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000109",
+   "pid": "aozora",
+   "pages": [],
+   "no": 109,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "たはむれにタンポヽの花を引つ切れば牛乳のやうな血しほしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000110",
+   "pid": "aozora",
+   "pages": [],
+   "no": 110,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大詰めのアンチキシヤウの美くしさ赤いインキの血しほしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000111",
+   "pid": "aozora",
+   "pages": [],
+   "no": 111,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この沼は底無し沼か殺人屍体を呑んでるぞとアブクを吐く",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    9,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000112",
+   "pid": "aozora",
+   "pages": [],
+   "no": 112,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夏なほ寒い杉の森はてしない迷路のやうに行つても　行つても出口がわからぬ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    8,
+    19,
+    28
+   ]
+  },
+  {
+   "id": "ryokiuta-000113",
+   "pid": "aozora",
+   "pages": [],
+   "no": 113,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕餉の焚火は燃え墜ちたがテントに誰も帰つて来ない黄昏――",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    16,
+    24
+   ]
+  },
+  {
+   "id": "ryokiuta-000114",
+   "pid": "aozora",
+   "pages": [],
+   "no": 114,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とこしなへに跛の盲が大なる円を描いて沙漠をさまよふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    10,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000115",
+   "pid": "aozora",
+   "pages": [],
+   "no": 115,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この貝殻あまりにも美しい輝きキツト何人かの人を殺した毒をもつてゐるのだらう",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14,
+    17,
+    26
+   ]
+  },
+  {
+   "id": "ryokiuta-000116",
+   "pid": "aozora",
+   "pages": [],
+   "no": 116,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "脅えつゞけたブルジヨアの豚腹に火事の人出の轟きデモだ！　と思つて死んでしまつた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    15,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000117",
+   "pid": "aozora",
+   "pages": [],
+   "no": 117,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゴミ箱を漁つてゐる犬が俺を殺した――魚の腸をくはへ出したぞ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000118",
+   "pid": "aozora",
+   "pages": [],
+   "no": 118,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人を轢いた電車その中では赤ン坊が小便たれて泣き出した",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    12,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000119",
+   "pid": "aozora",
+   "pages": [],
+   "no": 119,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "トラムプのハートを刺せば黒い血が……クラブ刺せば……赤い血が出る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    18,
+    26
+   ]
+  },
+  {
+   "id": "ryokiuta-000120",
+   "pid": "aozora",
+   "pages": [],
+   "no": 120,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ストーブがトロ／＼と鳴る忘れてゐた罪の思ひ出がトロ／＼と鳴る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000121",
+   "pid": "aozora",
+   "pages": [],
+   "no": 121,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雪だつたストーブの火を見つめつゝ殺した女を思うたその夜は……",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    16,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000122",
+   "pid": "aozora",
+   "pages": [],
+   "no": 122,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "死刑囚が眼かくしをされて微笑したその時黒い後光がさした",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    12,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000123",
+   "pid": "aozora",
+   "pages": [],
+   "no": 123,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "子供等が相手の瞳にわが瞳をうつして遊ぶおびえごゝろに",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000124",
+   "pid": "aozora",
+   "pages": [],
+   "no": 124,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "やは肌の熱き血しほを刺しもみでさびしからずや悪を説く君",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000125",
+   "pid": "aozora",
+   "pages": [],
+   "no": 125,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕ぐれは人の瞳の並ぶごとし病院の窓の向うの軒先",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    13,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000126",
+   "pid": "aozora",
+   "pages": [],
+   "no": 126,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真夜中に枕元の壁を撫でまはし夢だとわかり又ソツと寝る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000127",
+   "pid": "aozora",
+   "pages": [],
+   "no": 127,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "親の恩を一々感じて行つたなら親は無限に愛しられまい",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000128",
+   "pid": "aozora",
+   "pages": [],
+   "no": 128,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "屍体の血はコンナ色だと笑ひつゝ紅茶を匙でかきまはしてみせる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000129",
+   "pid": "aozora",
+   "pages": [],
+   "no": 129,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "梅毒と女が泣くのでそれならば生かして置いてくれようかと思ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    9,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000130",
+   "pid": "aozora",
+   "pages": [],
+   "no": 130,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紅い日に煤煙を吐かせ青い月に血をしたゝらせて画家が笑つた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000131",
+   "pid": "aozora",
+   "pages": [],
+   "no": 131,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黒い大きな吾が手を見るたびに美しい真白い首を掴み絞め度くなる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    14,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000132",
+   "pid": "aozora",
+   "pages": [],
+   "no": 132,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇の中を誰か此方を向いて来る近づいてみると血ダラケの俺……",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    14,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000133",
+   "pid": "aozora",
+   "pages": [],
+   "no": 133,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "投げこんだ出刃と一所にあの寒さが残つてゐようドブ溜の底",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000134",
+   "pid": "aozora",
+   "pages": [],
+   "no": 134,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "煙突がドン／＼煙を吐き出したあんまり空が清浄なので……",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000135",
+   "pid": "aozora",
+   "pages": [],
+   "no": 135,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雪の底から抱へ出された仏様が風にあたると眼をすこし開けた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000136",
+   "pid": "aozora",
+   "pages": [],
+   "no": 136,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病人はイヨ／＼駄目と聞いたので枕元の花の水をかへてやる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    15,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000137",
+   "pid": "aozora",
+   "pages": [],
+   "no": 137,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "宇宙線がフンダンに来てイラ／＼と俺の心をキチガヒにしかける",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000138",
+   "pid": "aozora",
+   "pages": [],
+   "no": 138,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "隣室に誰か来たぞと盲者が云ふ妻は行き得ずジツト耳を澄ます",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000139",
+   "pid": "aozora",
+   "pages": [],
+   "no": 139,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼が開いたら芝居を見ると盲者が云ふその顔を見て妻が舌を出す",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000140",
+   "pid": "aozora",
+   "pages": [],
+   "no": 140,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "血圧が次第々々に高くなつて頸動脈を截り度くなるも",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000141",
+   "pid": "aozora",
+   "pages": [],
+   "no": 141,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "インチキを承知の上で賭博打つ国際道徳をなつかしみ想ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000142",
+   "pid": "aozora",
+   "pages": [],
+   "no": 142,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二人の恋にポツンと打つたピリオツドジツト考へて紙を突き破る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000143",
+   "pid": "aozora",
+   "pages": [],
+   "no": 143,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日本晴れの日本の町を支那人が行く「それがどうした」「どうもしないさ」",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    16,
+    25
+   ]
+  },
+  {
+   "id": "ryokiuta-000144",
+   "pid": "aozora",
+   "pages": [],
+   "no": 144,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "キリストが或る時コンナ予言をした俺を抹殺するものがある……と",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000145",
+   "pid": "aozora",
+   "pages": [],
+   "no": 145,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "妻を納めた柩の中からマザ／＼と俺の体臭が匂つて来る深夜……………………",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    25
+   ],
+   "ruby": [
+    {
+     "a": "柩",
+     "r": "ひつぎ"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000146",
+   "pid": "aozora",
+   "pages": [],
+   "no": 146,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "透明な硝子の探偵が前に在り　うしろにも在り秋晴れの町",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000147",
+   "pid": "aozora",
+   "pages": [],
+   "no": 147,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "月のよさに吾が恋人を蹴殺せし愚かものあり貫一といふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000148",
+   "pid": "aozora",
+   "pages": [],
+   "no": 148,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自分より優れた者が皆死ねばいゝにと思ひ鏡を見てゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000149",
+   "pid": "aozora",
+   "pages": [],
+   "no": 149,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "キリストは馬小屋で生れたお釈迦様はブタゴヤで生まれたと……子供が笑ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    26
+   ]
+  },
+  {
+   "id": "ryokiuta-000150",
+   "pid": "aozora",
+   "pages": [],
+   "no": 150,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "十六吋主砲の真向うの大空が真赤に／＼燃えてしたゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000151",
+   "pid": "aozora",
+   "pages": [],
+   "no": 151,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "キツト死ぬ医師会長の空椅子に白い新しいカヴアがかゝつた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000152",
+   "pid": "aozora",
+   "pages": [],
+   "no": 152,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "羽子板の羽二重の頬なつかしむ稚な心に針をさしてみる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "稚",
+     "r": "おさ"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000153",
+   "pid": "aozora",
+   "pages": [],
+   "no": 153,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "腸詰に長い髪毛が交つてゐたジツト考へて喰つてしまつた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000154",
+   "pid": "aozora",
+   "pages": [],
+   "no": 154,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恐怖劇がチツトモ怖くなくなつた一所に見てゐる女が怖くなつた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000155",
+   "pid": "aozora",
+   "pages": [],
+   "no": 155,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "古着屋に女の着物が並んでゐる売つた女の心が並んでゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000156",
+   "pid": "aozora",
+   "pages": [],
+   "no": 156,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今日からは別人だぞと反り返るそれが昨日の俺だつた馬鹿……………",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    24
+   ]
+  },
+  {
+   "id": "ryokiuta-000157",
+   "pid": "aozora",
+   "pages": [],
+   "no": 157,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬の風つめたく晴れて木の空に大根の死骸かぎりなし",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000158",
+   "pid": "aozora",
+   "pages": [],
+   "no": 158,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "天人がどこかの森へ落ちたらしいシインとしてゐる春の真昼中",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000159",
+   "pid": "aozora",
+   "pages": [],
+   "no": 159,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白塗りのトラツクが街をヒタ走る何処までも／＼真赤になるまで",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000160",
+   "pid": "aozora",
+   "pages": [],
+   "no": 160,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "これが女給こちらが女優の尻尾ですチヨツト見分けがつかないでせう",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000161",
+   "pid": "aozora",
+   "pages": [],
+   "no": 161,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "レコードの割れ目を針が辷る時歌つてゐる奴の冷笑が見える",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000162",
+   "pid": "aozora",
+   "pages": [],
+   "no": 162,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "地獄座のフツトライトが北極光さ悔い改めよといふ意味なのさ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000163",
+   "pid": "aozora",
+   "pages": [],
+   "no": 163,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黄道光は空の女神の脚線美さだから滅多にあらはれないのさ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000164",
+   "pid": "aozora",
+   "pages": [],
+   "no": 164,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恋愛禁断の場所が今の世に在るといふ床の間の在るお座敷がソレだと……",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000165",
+   "pid": "aozora",
+   "pages": [],
+   "no": 165,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "女を囮に脱獄囚を捕まへた脱獄囚よりも残忍な警官",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    12
+   ],
+   "ruby": [
+    {
+     "a": "囮",
+     "r": "おとり"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000166",
+   "pid": "aozora",
+   "pages": [],
+   "no": 166,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "十七歳の少女の墓を発見して頭を撫でゝお辞儀して遣る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000167",
+   "pid": "aozora",
+   "pages": [],
+   "no": 167,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "脱獄囚を逐うて警官が野を横切る脱獄囚がアトから横切る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000168",
+   "pid": "aozora",
+   "pages": [],
+   "no": 168,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "打ち明けて云はれた時にドウしたらいゝのと娘が母に聞いてみる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000169",
+   "pid": "aozora",
+   "pages": [],
+   "no": 169,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "泣き濡れたその美しい未亡人が便所の中でニコ／＼して居る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000170",
+   "pid": "aozora",
+   "pages": [],
+   "no": 170,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "姙娠した彼女を思ひ唾液を吐く黄色い月がさしのぼる時",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000171",
+   "pid": "aozora",
+   "pages": [],
+   "no": 171,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "笹の間にサヤ／＼のぼる冬の月真実々々薄血したゝる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000172",
+   "pid": "aozora",
+   "pages": [],
+   "no": 172,
+   "maki": "",
+   "bu": "",
+   "dai": "血潮したゝる",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白い赤い大きなお尻を並べて見せるナアニ八百屋の店の話さ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000173",
+   "pid": "aozora",
+   "pages": [],
+   "no": 173,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病院の何処かの窓がたゞ一つ眼ざめて動く雪の深夜に――",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000174",
+   "pid": "aozora",
+   "pages": [],
+   "no": 174,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "駅員が居睡りしてゐる真夜中に骸骨ばかりの列車が通過した",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000175",
+   "pid": "aozora",
+   "pages": [],
+   "no": 175,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "母の腹から髪毛と歯だけが切り出されたさぞ残念な事であつたらう",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000176",
+   "pid": "aozora",
+   "pages": [],
+   "no": 176,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "梟が啼いたイヤ梟ぢや無いといふ真暗闇に佇む二人",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000177",
+   "pid": "aozora",
+   "pages": [],
+   "no": 177,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "吹き降りの踏切で人が轢死したそのあくる日はステキな上天気",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000178",
+   "pid": "aozora",
+   "pages": [],
+   "no": 178,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白き陽は彼の断崖と朝な／＼冷笑しかはしのぼり行くかな",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000179",
+   "pid": "aozora",
+   "pages": [],
+   "no": 179,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "地下室に無数の瓶が立並び口を開けて居り呼吸をせずに",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    12
+   ]
+  },
+  {
+   "id": "ryokiuta-000180",
+   "pid": "aozora",
+   "pages": [],
+   "no": 180,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひれ伏した乞食に人が銭を投げたしかし乞食はモウ死んでゐた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000181",
+   "pid": "aozora",
+   "pages": [],
+   "no": 181,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "嫁の奴すぐにお医者に走つて行くわしが病気の時に限つて",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000182",
+   "pid": "aozora",
+   "pages": [],
+   "no": 182,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ラムネ瓶に蠅が迷うて死ぬやうに彼女は百貨店で万引をした",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000183",
+   "pid": "aozora",
+   "pages": [],
+   "no": 183,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "晴れ渡る青空の下に鉄道が死の直線を黒く引いてゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000184",
+   "pid": "aozora",
+   "pages": [],
+   "no": 184,
+   "maki": "",
+   "bu": "",
+   "dai": "うごく窓",
+   "kotobagaki": "",
+   "author": "",
+   "text": "草蔭するどく黒く地に泌みて物音遠き死骸の周囲",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000185",
+   "pid": "aozora",
+   "pages": [],
+   "no": 185,
+   "maki": "",
+   "bu": "",
+   "dai": "地獄の花",
+   "kotobagaki": "",
+   "author": "",
+   "text": "火の如きカンナの花の咲き出づる御寺の庭に地獄を思ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000186",
+   "pid": "aozora",
+   "pages": [],
+   "no": 186,
+   "maki": "",
+   "bu": "",
+   "dai": "地獄の花",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昨日までと思うた患者がまだ生きて今朝の大雪みつめて居るも",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000187",
+   "pid": "aozora",
+   "pages": [],
+   "no": 187,
+   "maki": "",
+   "bu": "",
+   "dai": "地獄の花",
+   "kotobagaki": "",
+   "author": "",
+   "text": "お月様は死んでゐるのと児が問へばイーエと母が答へけるかな",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000188",
+   "pid": "aozora",
+   "pages": [],
+   "no": 188,
+   "maki": "",
+   "bu": "",
+   "dai": "地獄の花",
+   "kotobagaki": "",
+   "author": "",
+   "text": "胃袋の空つぽの鷲が電線に引つかゝつて死んだ青い／＼空",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000189",
+   "pid": "aozora",
+   "pages": [],
+   "no": 189,
+   "maki": "",
+   "bu": "",
+   "dai": "地獄の花",
+   "kotobagaki": "",
+   "author": "",
+   "text": "踏切にジツと立ち止まる人間を遠くから見てゐる白昼の心",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000190",
+   "pid": "aozora",
+   "pages": [],
+   "no": 190,
+   "maki": "",
+   "bu": "",
+   "dai": "地獄の花",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青空の冷めたい心が貨物車を地平線下に吸ひ込んでしまつた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000191",
+   "pid": "aozora",
+   "pages": [],
+   "no": 191,
+   "maki": "",
+   "bu": "",
+   "dai": "地獄の花",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自分自身の葬式の行列を思はする野の涯に咲くのいばらの花",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000192",
+   "pid": "aozora",
+   "pages": [],
+   "no": 192,
+   "maki": "",
+   "bu": "",
+   "dai": "死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自殺しても悲しんで呉れる者が無いだから吾輩は自殺するのだ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000193",
+   "pid": "aozora",
+   "pages": [],
+   "no": 193,
+   "maki": "",
+   "bu": "",
+   "dai": "死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "馬鹿にされる奴が一番出世するだから自殺する奴がエライのだ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000194",
+   "pid": "aozora",
+   "pages": [],
+   "no": 194,
+   "maki": "",
+   "bu": "",
+   "dai": "死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何遍も自殺し損ねて生きてゐる助けた奴が皆笑つてゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000195",
+   "pid": "aozora",
+   "pages": [],
+   "no": 195,
+   "maki": "",
+   "bu": "",
+   "dai": "死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あたゝかいお天気のいゝ日に道ばたで乞食し度いと皆思つてゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    23
+   ]
+  },
+  {
+   "id": "ryokiuta-000196",
+   "pid": "aozora",
+   "pages": [],
+   "no": 196,
+   "maki": "",
+   "bu": "",
+   "dai": "死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "悟れば乞食も一つ悟れば泥棒かも一つ悟ればキチガヒかアハハ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000197",
+   "pid": "aozora",
+   "pages": [],
+   "no": 197,
+   "maki": "",
+   "bu": "",
+   "dai": "死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "致死量の睡眠薬を看護婦が二つに分けてキヤツキヤと笑ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000198",
+   "pid": "aozora",
+   "pages": [],
+   "no": 198,
+   "maki": "",
+   "bu": "",
+   "dai": "死",
+   "kotobagaki": "",
+   "author": "",
+   "text": "振り棄てた彼女が首を縊つた窓蒲団かむればハツキリ見える",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    14
+   ],
+   "ruby": [
+    {
+     "a": "縊",
+     "r": "くく"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000199",
+   "pid": "aozora",
+   "pages": [],
+   "no": 199,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "満洲で人を斬つたと微笑して肥えふとりたる友の帰り来る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000200",
+   "pid": "aozora",
+   "pages": [],
+   "no": 200,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "明るい部屋で冷めたい帽子を冠つたら殺した友の顔を思ひ出した",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000201",
+   "pid": "aozora",
+   "pages": [],
+   "no": 201,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ずつと前殺した友へ根気よく年賀状を出す愚かなる吾",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000202",
+   "pid": "aozora",
+   "pages": [],
+   "no": 202,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "広重は惨殺屍体の上にある真青な空の色を記憶した",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    12
+   ]
+  },
+  {
+   "id": "ryokiuta-000203",
+   "pid": "aozora",
+   "pages": [],
+   "no": 203,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "煉瓦塀を仰げば青い／＼空殺人囚がホツとする空",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    12
+   ]
+  },
+  {
+   "id": "ryokiuta-000204",
+   "pid": "aozora",
+   "pages": [],
+   "no": 204,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "病死した友の代りに返事した先生は知らずに出席簿を閉ぢた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000205",
+   "pid": "aozora",
+   "pages": [],
+   "no": 205,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋まひる静かな山路に堪へ兼ねて追剥をした人は居ないか",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    18
+   ],
+   "ruby": [
+    {
+     "a": "追剥",
+     "r": "おいはぎ"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000206",
+   "pid": "aozora",
+   "pages": [],
+   "no": 206,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人頭蛇を生ませてみたいと思ひつゝ女と寝てゐる若い見世物師",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000207",
+   "pid": "aozora",
+   "pages": [],
+   "no": 207,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青空に突き刺さり／＼血をたらす南仏蘭西の寺の尖塔",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    15
+   ],
+   "ruby": [
+    {
+     "a": "仏蘭西",
+     "r": "フランス"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000208",
+   "pid": "aozora",
+   "pages": [],
+   "no": 208,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夜の風に紙片が地を匍ふて行く死人の門口でピタリと止まる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000209",
+   "pid": "aozora",
+   "pages": [],
+   "no": 209,
+   "maki": "",
+   "bu": "",
+   "dai": "見世物師の夢",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真鍮のイーコン像から蝋細工のレニンの死体へ迷信転向",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000210",
+   "pid": "aozora",
+   "pages": [],
+   "no": 210,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "死刑囚は遂に動かずなり行けど栴檀の樹の蝉は啼きやまず",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ],
+   "ruby": [
+    {
+     "a": "栴檀",
+     "r": "せんだん"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000211",
+   "pid": "aozora",
+   "pages": [],
+   "no": 211,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "神様の鼻は真赤に爛れてゐるだから姿をお見せにならないのだ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000212",
+   "pid": "aozora",
+   "pages": [],
+   "no": 212,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一瓶の白き錠剤かぞへおはり窓の青空じつと見つむる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000213",
+   "pid": "aozora",
+   "pages": [],
+   "no": 213,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "浜名湖の鉄橋渡る列車よりフト……飛降りてみたくなりしかな",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000214",
+   "pid": "aozora",
+   "pages": [],
+   "no": 214,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "天井の節穴われを睨むごとしわが旧悪を知り居るごとし",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000215",
+   "pid": "aozora",
+   "pages": [],
+   "no": 215,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青空は罪深きかよ虻や蜻蛉お倉の白壁にぶつかつて死ぬ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    12
+   ],
+   "ruby": [
+    {
+     "a": "虻",
+     "r": "あぶ"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000216",
+   "pid": "aozora",
+   "pages": [],
+   "no": 216,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "盲人がニコ／＼笑つて自宅へ帰る着物の裾に血を附けたまゝ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000217",
+   "pid": "aozora",
+   "pages": [],
+   "no": 217,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よそのヲヂサンが汽車に轢かれて死んでたよ帰つて来ないお父さんかと思つたよ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000218",
+   "pid": "aozora",
+   "pages": [],
+   "no": 218,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "将軍塚将軍の骨が棺の中で錆びた刀を抜きかけてゐた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    17
+   ]
+  },
+  {
+   "id": "ryokiuta-000219",
+   "pid": "aozora",
+   "pages": [],
+   "no": 219,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青空はブルーブラツク三日月は死の唄を書くペン先かいな",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000220",
+   "pid": "aozora",
+   "pages": [],
+   "no": 220,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大理石の伽藍の如き頭蓋骨が荘厳に微笑む南極の海",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000221",
+   "pid": "aozora",
+   "pages": [],
+   "no": 221,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほの暗くはるかな国離れ来て桐の若葉にさゆらぐ悪魔",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    13,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000222",
+   "pid": "aozora",
+   "pages": [],
+   "no": 222,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが罪の思ひ出に似た貨物車が犇きよぎる白の陽の下",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000223",
+   "pid": "aozora",
+   "pages": [],
+   "no": 223,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ぬかるみは果てしもあらず微笑して彼女の文を千切り棄てゆく",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000224",
+   "pid": "aozora",
+   "pages": [],
+   "no": 224,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ニヤ／＼と微笑しながら跟いて来るもう一人の我を振返る夕暮",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    16,
+    23
+   ],
+   "ruby": [
+    {
+     "a": "跟",
+     "r": "つ"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000225",
+   "pid": "aozora",
+   "pages": [],
+   "no": 225,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日も出でず月も入らざる地平線が心の涯にいつも横たはる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000226",
+   "pid": "aozora",
+   "pages": [],
+   "no": 226,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うなだれて小暗き町へ迷ひ入り獣の如く呻吟してみる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000227",
+   "pid": "aozora",
+   "pages": [],
+   "no": 227,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "社長室の片隅に黒く凋れ行く赤いタイピストの形見のチユーリツプ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000228",
+   "pid": "aozora",
+   "pages": [],
+   "no": 228,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "体温器窓に透かして眺め入る死に度いと思ふ心を透かし見る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000229",
+   "pid": "aozora",
+   "pages": [],
+   "no": 229,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "タツタ一つ罪悪を知らぬ瞳があつた残虐不倫な狂女の瞳だつた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    5,
+    16
+   ],
+   "ruby": [
+    {
+     "a": "瞳",
+     "r": "め"
+    }
+   ]
+  },
+  {
+   "id": "ryokiuta-000230",
+   "pid": "aozora",
+   "pages": [],
+   "no": 230,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬空が絶壁の様に屹立してゐるそのコチラ側に罪悪が在る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    14,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000231",
+   "pid": "aozora",
+   "pages": [],
+   "no": 231,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "無限に利く望遠鏡を覗いてみた自分の背中に蠅が止まつてゐた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    9,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000232",
+   "pid": "aozora",
+   "pages": [],
+   "no": 232,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真鍮製の向日葵の花を庭に植ゑた彼の太陽を停止させる為",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000233",
+   "pid": "aozora",
+   "pages": [],
+   "no": 233,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おしろいの夜の香よりも真黒なる夜の血の香を恋し初めしか",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000234",
+   "pid": "aozora",
+   "pages": [],
+   "no": 234,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "失恋した男の心が剃刀でタンポヽの花を刻んで居るも",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000235",
+   "pid": "aozora",
+   "pages": [],
+   "no": 235,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "世の中の坊主が足りなくなつてゆく医学博士がアンマリ殖えるので",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    7,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000236",
+   "pid": "aozora",
+   "pages": [],
+   "no": 236,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "郊外の野山は都会より残忍だ静かに美しく微笑してゐるから",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000237",
+   "pid": "aozora",
+   "pages": [],
+   "no": 237,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "深海の盲目の魚が恋しいと歌つた牧水も死んでしまつた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000238",
+   "pid": "aozora",
+   "pages": [],
+   "no": 238,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "非常汽笛汽車が止まると犯人がニツコリ笑つて麦畑を去る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000239",
+   "pid": "aozora",
+   "pages": [],
+   "no": 239,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "汽缶車がだん／＼大きくなつて来る菜種畑の白昼の恐怖",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000240",
+   "pid": "aozora",
+   "pages": [],
+   "no": 240,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "毒薬と花束と美人の死骸を積んだフルスピードの探偵小説",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000241",
+   "pid": "aozora",
+   "pages": [],
+   "no": 241,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "木の芽草の芽伸び上る中に吾心伸び上りかねて首を縊るも",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    21
+   ]
+  },
+  {
+   "id": "ryokiuta-000242",
+   "pid": "aozora",
+   "pages": [],
+   "no": 242,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "波際の猫の死骸が乾燥して薄目を開いて夕日を見てゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    8,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000243",
+   "pid": "aozora",
+   "pages": [],
+   "no": 243,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "自殺しに吾が来かゝれば白い猫が線路の闇をソツと横切る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000244",
+   "pid": "aozora",
+   "pages": [],
+   "no": 244,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春風が先づ探偵を吹き送りアトから悠々と犯人を吹き送る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    12
+   ]
+  },
+  {
+   "id": "ryokiuta-000245",
+   "pid": "aozora",
+   "pages": [],
+   "no": 245,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "涯てしなく並ぶ土管が人間の死骸を一つ喰べ度いと云ふ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000246",
+   "pid": "aozora",
+   "pages": [],
+   "no": 246,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬空にヂン／＼と鳴る電線が死報の時だけヒツソリとなる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000247",
+   "pid": "aozora",
+   "pages": [],
+   "no": 247,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "犯人の帽子を巡査が拾ひ上げて又棄てゝ行く春の夕暮",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    6,
+    14,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000248",
+   "pid": "aozora",
+   "pages": [],
+   "no": 248,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "血のやうに黒いダリヤを凝視して少女がホツとため息をする",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    11,
+    18
+   ]
+  },
+  {
+   "id": "ryokiuta-000249",
+   "pid": "aozora",
+   "pages": [],
+   "no": 249,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山の奥で仇讐同志がめぐり合つた誰も居ないので仲直りした",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    22
+   ]
+  },
+  {
+   "id": "ryokiuta-000250",
+   "pid": "aozora",
+   "pages": [],
+   "no": 250,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "殺人狂が針の無い時計を持つてゐた殺すたんびにネヂをかけてゐた",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    16
+   ]
+  },
+  {
+   "id": "ryokiuta-000251",
+   "pid": "aozora",
+   "pages": [],
+   "no": 251,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "脳髄が二つ在つたらばと思ふ考へてはならぬ事を考へるため",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000252",
+   "pid": "aozora",
+   "pages": [],
+   "no": 252,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日の光り腹の底まで吸ひ込んで骨となりゆく行路病人",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    4,
+    14
+   ]
+  },
+  {
+   "id": "ryokiuta-000253",
+   "pid": "aozora",
+   "pages": [],
+   "no": 253,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何もかも性に帰結するフロイドが天体鏡で女湯を覗く",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    15,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000254",
+   "pid": "aozora",
+   "pages": [],
+   "no": 254,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風に散る木の葉の中の悪党が池の向側に高飛びをする",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    10,
+    13
+   ]
+  },
+  {
+   "id": "ryokiuta-000255",
+   "pid": "aozora",
+   "pages": [],
+   "no": 255,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "囚人がアハハと笑つてなぐられたアハハと笑つて囚人が死んだ",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    3,
+    15
+   ]
+  },
+  {
+   "id": "ryokiuta-000256",
+   "pid": "aozora",
+   "pages": [],
+   "no": 256,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "中風の姑は何でも知つてゐる死に度いと思ふ妾の心まで",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000257",
+   "pid": "aozora",
+   "pages": [],
+   "no": 257,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "北極に行つて帰らぬ人々が誰よりもノンキに欠伸してゐる",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    20
+   ]
+  },
+  {
+   "id": "ryokiuta-000258",
+   "pid": "aozora",
+   "pages": [],
+   "no": 258,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "石コロが広い往来の中央で歯噛みして居るポンと蹴つて遣る",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    12,
+    19
+   ]
+  },
+  {
+   "id": "ryokiuta-000259",
+   "pid": "aozora",
+   "pages": [],
+   "no": 259,
+   "maki": "",
+   "bu": "",
+   "dai": "白骨譜",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一里ばかり撫でまはして来たなつかしい石コロをフト池に投げ込む",
+   "sachu": "",
+   "poems": [],
+   "lb": [
+    13,
+    22
+   ]
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "ryokiuta",
+  "work": "猟奇歌",
+  "yomi": "りょうきか",
+  "category": "近代歌集",
+  "era": "昭和時代",
+  "author": "夢野久作",
+  "kind": "kashu",
+  "blocks": 259,
+  "chars": 7043,
+  "poems": 259,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-11-21",
+  "updated_at": "2026-11-21T20:58:11+09:00"
+ }
+}
